@@ -2,7 +2,7 @@
 
 ## Case Score de Crédito dos Clientes
 
-Voce foi contratado por um banco para conseguir definir o score de crédito dos clientes. Você precisa analisar todos os clientes do banco e, com base nessa análise, criar um modelo que consiga ler as informaÇões do cliente e dizer automaticamente o score de crédito dele: Ruim, Ok, Ruim
+You was contracted to a bank to get define the score of clients credit. You need to analize all clients and, with this analize,creates a model that get to read the informations and tell automatically the credit score: Good, standard and poor.
 
 ### Step 0
 
@@ -53,8 +53,11 @@ Chooses the better model with ´random forest´ and ´KNN´ methods.
 Uses the AI to do new predictions.
 
 ## Libraries:
-Install - Pandas: to database
+Install 
+  - Pandas: to database
 
-- Scikit learn: principal AI package
+ - Scikit learn: principal AI package
 
-´!pip install pandas scikit-learn´
+comand: ´!pip install pandas scikit-learn´
+
+*Jaqueline de Almeida*
