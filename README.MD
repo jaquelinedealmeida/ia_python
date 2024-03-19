@@ -1,8 +1,8 @@
 # PROJECT PYTHON IA: Artificial Intelligence and Previsions
 
-## Case Score de Crédito dos Clientes
+## Case Score Credit of the Clients
 
-You was contracted to a bank to get define the score of clients credit. You need to analize all clients and, with this analize,creates a model that get to read the informations and tell automatically the credit score: Good, standard and poor.
+You were contracted to a bank to get define the score of client's credit. You need to analyze all clients and, with this analysis, create a model that gets to read the information and tell automatically the credit score: Good, standard, and poor.
 
 ### Step 0
 
