@@ -16,7 +16,7 @@ Imports the database
 
 Prepares the database to the AI:
 
-- The AI read numbers only. It´s necessary transform columns - object(caracter) - in number, called ´label encoder´. The column that will be predicted don't need transformed in number.
+- The AI read numbers only. It´s necessary transform columns - object - in number, called ´label encoder´. The column that will be predicted don't need transformed in number.
   - Import label encoder
   - Create label encoder
   - Apply in the column
@@ -58,6 +58,8 @@ Install
 
  - Scikit learn: principal AI package
 
-comand: ´!pip install pandas scikit-learn´
+command: ´!pip install pandas scikit-learn´
 
 *Jaqueline de Almeida*
+Software developer
+Linkedin: [www.linkedin.com/in/jaqueline-de-almeida]
